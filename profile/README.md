@@ -1,5 +1,3 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA9DC,100:543fd6&text=SHORT-PASS&descAlignY=100&descAlign=62&textBg=false&fontColor=FFFFFF&fontSize=70&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20" /></div>
-
 <div align="center">
   <img style="width:100%; height:auto;" alt="ShortPass-Home" src="https://github.com/user-attachments/assets/b78a5ef3-2c50-439c-839a-d0815495f561" />
 </div>
