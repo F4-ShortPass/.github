@@ -12,7 +12,8 @@
 | [JIMIN KIM](https://github.com/jimni3155) | Computer Science | AI Engineering | - |
 
 ## 🏆 Awards
-- 2025 DATA VENTURE 문제해결 챌린지 - 교육부장관상 
+- 2025 DATA VENTURE 문제해결 챌린지 - 교육부장관상
+- 2025 DATA VENTURE 문제해결 챌린지 – FLEX 부문 대상 
 
 ## Project Introduction
 
