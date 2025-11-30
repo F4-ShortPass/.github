@@ -19,6 +19,3 @@
 ## Architecture
 
 
-
-</br>
-</br>
