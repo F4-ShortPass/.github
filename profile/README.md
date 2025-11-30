@@ -1,12 +1,22 @@
-## Hi there 👋
+<div><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1FA9DC,100:543fd6&text=SHORT-PASS&descAlignY=100&descAlign=62&textBg=false&fontColor=FFFFFF&fontSize=70&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20" /></div>
 
-<!--
+## 👏 Team Member
 
-**Here are some ideas to get you started:**
+| name                                        | major        | role | Email                |
+| -------------------------------------------- | -------------- | ------ | -------------------- |
+| [CHAEAH WOO](https://github.com/chaeeah) | Computer Science | PM / BE | chaeah23@sookmyung.ac.kr |
+| [SUMIN BAEK](https://github.com/suminb99) | Computer Science | FE / DESIGN | - |
+| [JIWON YOON](https://github.com/rosaze) | Computer Science | AI Engineering | - |
+| [JIMIN KIM](https://github.com/jimni3155) | Computer Science | AI Engineering | - |
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🏆 Awards
+- 2025 DATA VENTURE 문제해결 챌린지 - 교육부장관상 
+
+## Project Introduction
+
+## Architecture
+
+
+
+</br>
+</br>
