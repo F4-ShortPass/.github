@@ -60,6 +60,7 @@ Short-Pass는 AI 면접과 Multi-Agent 평가 시스템을 통해 기업이 일�
 </br>
 
 <div id="4"></div>
+<img width="1920" height="1080" alt="team" src="https://github.com/user-attachments/assets/4c5e063f-95ad-42af-b7d2-e66f0ab307ae" />
 
 ## 🏆 Awards
 - 2025 DATA VENTURE 문제해결 챌린지 – 교육부장관상 (대회 전체 1위)
@@ -72,6 +73,8 @@ Short-Pass는 AI 면접과 Multi-Agent 평가 시스템을 통해 기업이 일�
 ## 🛠️ Architecture
 
 </br>
+<img width="1920" height="1080" alt="arch" src="https://github.com/user-attachments/assets/1c590f93-48ba-4005-8dff-2d14efa17116" />
+<img width="1920" height="1080" alt="arch_aws" src="https://github.com/user-attachments/assets/134614aa-7a71-4db3-aec1-b6c9c5e4a149" />
 
 <div id="6"></div>
 
