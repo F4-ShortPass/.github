@@ -2,7 +2,7 @@
   <p>🏅 2025 DATA VENTURE 문제해결 챌린지 – 교육부장관상 수상작 🏅</p>
   <h1>SHORT-PASS</h1>
   <p>기업을 위한 HR 스크리닝 서비스</p>
-  <img style="width:60%; height:auto;" alt="ShortPass-Home" src="https://github.com/user-attachments/assets/b78a5ef3-2c50-439c-839a-d0815495f561" />
+  <img style="width:70%; height:auto;" alt="ShortPass-Home" src="https://github.com/user-attachments/assets/b78a5ef3-2c50-439c-839a-d0815495f561" />
 </div>
 
 
@@ -42,6 +42,8 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 - 직무 설명(JD) 및 기업 URL 등록
 - 제출된 기업 및 직무 정보를 바탕으로 면접관 페르소나 3종 생성
 - JD와 기업 정보를 기반으로 직무 역량 5개 자동 추출
+  
+<img style="width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/14873960-22d8-4bf4-b521-06ebfda54492" />
 
 ### 2. AI 면접 기반 답변 수집
 
@@ -49,11 +51,17 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 - 지원자 답변을 분석해 꼬리 질문 자동 생성
 - 면접 과정에서의 지원자 답변 데이터 수집
 
+<video src="https://github.com/user-attachments/assets/5a1b07de-98fc-4b4e-80a2-82e315df8ea6" controls>
+</video>
+
 ### 3. Multi-Agent 기반 역량 평가
 
 - 공통 역량 5개 + 직무 역량 5개 기준 평가
 - 각 AI 에이전트가 특정 역량을 전담해 답변 분석 및 평가
 - 지원자 답변을 역량 단위로 구조화해 평가
+
+<video src="https://github.com/user-attachments/assets/84063a6c-fa70-498d-aa9e-aee08b405967" controls>
+</video>
 
 ### 4. 평가 결과 제공
 
@@ -65,6 +73,12 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
   - 역량별 점수 및 강·약점 (레이더 차트 시각화)
   - 긍정·부정 키워드 기반 평가 요약
   - 추가 면접을 위한 추천 질문
+
+<img style="width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/8045298b-c185-490c-bf1b-d61fd7a1bf73" />
+<video src="https://github.com/user-attachments/assets/5a1b07de-98fc-4b4e-80a2-82e315df8ea6" controls>
+</video>
+
+
 
 
 </br>
