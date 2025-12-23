@@ -88,7 +88,7 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 | -------------------------------------------- | -------------- | ------ | -------------------- |
 | [CHAEAH WOO](https://github.com/chaeeah) | Computer Science | PM / BE | chaeah23@sookmyung.ac.kr |
 | [SUMIN BAEK](https://github.com/suminb99) | Computer Science | FE / DESIGN | suminb99@sookmyung.ac.kr |
-| [JIWON YOON](https://github.com/rosaze) | Computer Science | AI Engineering | geenieeyoon@gmail.com |
+| [JEEWON YOON](https://github.com/rosaze) | Computer Science | AI Engineering | geenieeyoon@gmail.com |
 | [JIMIN KIM](https://github.com/jimni3155) | Computer Science | AI Engineering | jimni3155@gmail.com |
 
 </br>
