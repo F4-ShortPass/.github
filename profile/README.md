@@ -1,7 +1,7 @@
 <div align="center">
   <h3>🏅 2025 DATA VENTURE 문제해결 챌린지 – 교육부장관상 수상작 🏅</h3>
   <h1>SHORT-PASS</h1>
-  <p>기업을 위한 HR 스크리닝 서비스</p>
+  <p>AI 기반 면접 및 채용 매칭 서비스</p>
   <img style="width:70%; height:auto;" alt="ShortPass-Home" src="https://github.com/user-attachments/assets/b78a5ef3-2c50-439c-839a-d0815495f561" />
 </div>
 
@@ -39,7 +39,10 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 - 직무 설명(JD) 및 기업 URL 등록
 - 제출된 기업 및 직무 정보를 바탕으로 면접관 페르소나 3종 생성
 - JD와 기업 정보를 기반으로 직무 역량 5개 자동 추출
-  
+
+<video src="https://github.com/user-attachments/assets/9a33f48e-9ab8-4488-bb5d-91dce0bda572" controls>
+</video>
+
 <img style="width:100%; height:auto;" alt="image" src="https://github.com/user-attachments/assets/14873960-22d8-4bf4-b521-06ebfda54492" />
 
 ### 2. AI 면접 기반 답변 수집
