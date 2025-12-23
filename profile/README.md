@@ -1,5 +1,5 @@
 <div align="center">
-  <p>🏅 2025 DATA VENTURE 문제해결 챌린지 – 교육부장관상 수상작 🏅</p>
+  <h3>🏅 2025 DATA VENTURE 문제해결 챌린지 – 교육부장관상 수상작 🏅</h3>
   <h1>SHORT-PASS</h1>
   <p>기업을 위한 HR 스크리닝 서비스</p>
   <img style="width:70%; height:auto;" alt="ShortPass-Home" src="https://github.com/user-attachments/assets/b78a5ef3-2c50-439c-839a-d0815495f561" />
@@ -14,9 +14,6 @@
 3. [**Team**](#3)
 4. [**Awards**](#4)
 5. [**Architecture**](#5)
-6. [**API Documentation**](#6)
-7. [**Installation**](#7)
-8. [**Demo**](#8)
 
 </br>
 
@@ -91,8 +88,8 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 | -------------------------------------------- | -------------- | ------ | -------------------- |
 | [CHAEAH WOO](https://github.com/chaeeah) | Computer Science | PM / BE | chaeah23@sookmyung.ac.kr |
 | [SUMIN BAEK](https://github.com/suminb99) | Computer Science | FE / DESIGN | suminb99@sookmyung.ac.kr |
-| [JIWON YOON](https://github.com/rosaze) | Computer Science | AI Engineering | - |
-| [JIMIN KIM](https://github.com/jimni3155) | Computer Science | AI Engineering | - |
+| [JIWON YOON](https://github.com/rosaze) | Computer Science | AI Engineering | geenieeyoon@gmail.com |
+| [JIMIN KIM](https://github.com/jimni3155) | Computer Science | AI Engineering | jimni3155@gmail.com |
 
 </br>
 
@@ -112,15 +109,5 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 </br>
 <img width="1920" height="1080" alt="arch" src="https://github.com/user-attachments/assets/1c590f93-48ba-4005-8dff-2d14efa17116" />
 <img width="1920" height="1080" alt="arch_aws" src="https://github.com/user-attachments/assets/134614aa-7a71-4db3-aec1-b6c9c5e4a149" />
-
-<div id="6"></div>
-
-## API Documentation
-
-</br>
-
-<div id="7"></div>
-
-## Installation
 
 
