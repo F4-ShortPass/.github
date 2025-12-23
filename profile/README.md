@@ -51,7 +51,7 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 - 지원자 답변을 분석해 꼬리 질문 자동 생성
 - 면접 과정에서의 지원자 답변 데이터 수집
 
-<video src="https://github.com/user-attachments/assets/5a1b07de-98fc-4b4e-80a2-82e315df8ea6" controls>
+<video src="https://github.com/user-attachments/assets/4ae9336a-cee9-48cf-95c0-aeb90bca3fc5" controls>
 </video>
 
 ### 3. Multi-Agent 기반 역량 평가
