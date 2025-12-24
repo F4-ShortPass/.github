@@ -111,6 +111,9 @@ Short-Pass는 채용 과정에서 지원자를 보다 효율적으로 검토할 
 
 </br>
 <img width="1920" height="1080" alt="arch" src="https://github.com/user-attachments/assets/1c590f93-48ba-4005-8dff-2d14efa17116" />
-<img width="1920" height="1080" alt="arch_aws" src="https://github.com/user-attachments/assets/134614aa-7a71-4db3-aec1-b6c9c5e4a149" />
+
+### AWS Architecture diagram
+![shortpass](https://github.com/user-attachments/assets/bf070bc4-2060-4d7b-a075-bdaa3ef2e3dc)
+
 
 
